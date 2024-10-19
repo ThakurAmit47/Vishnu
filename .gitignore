@@ -1,0 +1,10 @@
+# ignored folders
+output/
+__pycache__/
+
+# ignored files
+spotdl
+.cache
+nohup.out
+spotseek.sh
+test.py
